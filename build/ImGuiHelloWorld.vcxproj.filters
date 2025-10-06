@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\repos\UdemyCppGui\2_ImGui\PaintX\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\repos\UdemyCppGui\2_ImGui\PaintX\src\render.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\repos\UdemyCppGui\2_ImGui\PaintX\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{75723DF2-01E3-35DA-8468-9DB673722C5E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
